@@ -1,0 +1,4 @@
+{"level":"info","message":"⏳ Cron job started. Running every 5 minutes...","timestamp":"2025-03-16T19:18:29.203Z"}
+{"level":"info","message":"🚀 API Gateway running on port","timestamp":"2025-03-16T19:18:29.205Z"}
+{"level":"info","message":"Checking Kafka connection...","timestamp":"2025-03-16T19:18:29.209Z"}
+{"level":"info","message":"🚀 API Gateway running on port","timestamp":"2025-03-16T19:23:52.048Z"}
