@@ -84,4 +84,11 @@ This manually triggers the cron job that summarizes user messages.
 
 - Ensure Docker is installed and running.  
 - Modify environment variables as needed in the `.env` file.  
-- Logs will be generated based on the selected environment.  
+- Logs will be generated based on the selected environment.
+
+## TODO 
+
+- Global error handling inservices
+- Monorepo setup
+- Monitoring of the message passing
+- Security configurations etc
