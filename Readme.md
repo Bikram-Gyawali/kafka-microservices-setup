@@ -18,8 +18,7 @@ This project implements a Kafka-based communication system in a microservices ar
 ### Clone the Repository  
 
 ```sh
-git clone <repo_url>
-cd <project_directory>
+git clone git@github.com:Bikram-Gyawali/kafka-microservices-setup.git
 ```
 
 ### Run the Project  
