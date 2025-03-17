@@ -11,7 +11,8 @@ This project implements a Kafka-based communication system in a microservices ar
 - **Dockerized Setup** with managed services and API Gateway.  
 - **Environment-based Logging** for better debugging.  
 - **Environment Variables Handling** for configuration management.  
-- **Cron Job Execution** every 5 minutes to summarize user messages.  
+- **Cron Job Execution** every 5 minutes to summarize user messages.
+- **Working on monorepo setup**
 
 ## Getting Started  
 
